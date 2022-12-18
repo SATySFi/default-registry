@@ -6,7 +6,7 @@ packages:
     source:
       type: "tar_gzip"
       url: "https://gfngfn.github.io/temp/annot.0.0.1.tar.gz"
-      checksum: "9ee4077bb54de117a468bc99a7bc85db"
+      checksum: "eeeed8a8661509c674d87bbb6053ff56"
     language: "^0.1.0"
     dependencies:
     - name: "stdlib"
@@ -17,7 +17,7 @@ packages:
     source:
       type: "tar_gzip"
       url: "https://gfngfn.github.io/temp/code.0.0.1.tar.gz"
-      checksum: "1cef688de8b8737eed3a7020ad36cac0"
+      checksum: "e98458918fe1dd1721fc0333d057093f"
     language: "^0.1.0"
     dependencies:
     - name: "stdlib"
@@ -30,7 +30,7 @@ packages:
     source:
       type: "tar_gzip"
       url: "https://gfngfn.github.io/temp/font-ipa-ex.0.0.1.tar.gz"
-      checksum: "b80cbc778630790b38370cd6e2ae3617"
+      checksum: "07d10a0fc952525da8dd55409c5fda0e"
     language: "^0.1.0"
     dependencies: []
 - name: "font-junicode"
@@ -39,7 +39,7 @@ packages:
     source:
       type: "tar_gzip"
       url: "https://gfngfn.github.io/temp/font-junicode.0.0.1.tar.gz"
-      checksum: "8ce4e6329e91686dad50c2b53cbaa909"
+      checksum: "dd526328b96ae31bfc5ce395ac9fab8f"
     language: "^0.1.0"
     dependencies: []
 - name: "font-latin-modern"
@@ -48,7 +48,7 @@ packages:
     source:
       type: "tar_gzip"
       url: "https://gfngfn.github.io/temp/font-latin-modern.0.0.1.tar.gz"
-      checksum: "83abd335a07b57e9d001c72436ec914d"
+      checksum: "8671bd0f13c08f319b1678c117d26100"
     language: "^0.1.0"
     dependencies: []
 - name: "font-latin-modern-math"
@@ -57,7 +57,7 @@ packages:
     source:
       type: "tar_gzip"
       url: "https://gfngfn.github.io/temp/font-latin-modern-math.0.0.1.tar.gz"
-      checksum: "f05319caab0cedb08c997702502b9258"
+      checksum: "8333d71758048adc24a7f58c5468feca"
     language: "^0.1.0"
     dependencies: []
 - name: "footnote-scheme"
@@ -66,7 +66,7 @@ packages:
     source:
       type: "tar_gzip"
       url: "https://gfngfn.github.io/temp/footnote-scheme.0.0.1.tar.gz"
-      checksum: "3f3b2c5f5426bf5e8ce9bd8ffd2f9923"
+      checksum: "286a9da1dd41a36ffc0ed81b58130c0c"
     language: "^0.1.0"
     dependencies:
     - name: "stdlib"
@@ -77,7 +77,7 @@ packages:
     source:
       type: "tar_gzip"
       url: "https://gfngfn.github.io/temp/itemize.0.0.1.tar.gz"
-      checksum: "68b2c7fc53322c7d4b2c765fd06f550e"
+      checksum: "5f835b43c73d2e03a96f633e0de6bf19"
     language: "^0.1.0"
     dependencies:
     - name: "stdlib"
@@ -88,7 +88,7 @@ packages:
     source:
       type: "tar_gzip"
       url: "https://gfngfn.github.io/temp/math.0.0.1.tar.gz"
-      checksum: "e22af0dc036f623ce3ec24603e9122a3"
+      checksum: "61668dfedc8ab9b54f2cf95e231e0da8"
     language: "^0.1.0"
     dependencies:
     - name: "stdlib"
@@ -99,7 +99,7 @@ packages:
     source:
       type: "tar_gzip"
       url: "https://gfngfn.github.io/temp/md-ja.0.0.1.tar.gz"
-      checksum: "1c73d87c6d9f46ae8f06bfb5f5efc78f"
+      checksum: "8664a10213cc75eb2ee4c3c523cdb0b4"
     language: "^0.1.0"
     dependencies:
     - name: "stdlib"
@@ -128,7 +128,7 @@ packages:
     source:
       type: "tar_gzip"
       url: "https://gfngfn.github.io/temp/proof.0.0.1.tar.gz"
-      checksum: "6946c916d59e29a830f456ff0cdc19c7"
+      checksum: "5513bf9e8338cc51aa499713d53fa624"
     language: "^0.1.0"
     dependencies:
     - name: "stdlib"
@@ -139,7 +139,7 @@ packages:
     source:
       type: "tar_gzip"
       url: "https://gfngfn.github.io/temp/std-ja.0.0.1.tar.gz"
-      checksum: "70e42bd528df3a1030f3e13f06efcbcf"
+      checksum: "932ac4e53be596a8164a4c21d6f20641"
     language: "^0.1.0"
     dependencies:
     - name: "stdlib"
@@ -164,7 +164,7 @@ packages:
     source:
       type: "tar_gzip"
       url: "https://gfngfn.github.io/temp/std-ja-book.0.0.1.tar.gz"
-      checksum: "97fdb866d0ea62534eb4bf68acd7a6de"
+      checksum: "f6b76ffce4466bff82da00d674c4b836"
     language: "^0.1.0"
     dependencies:
     - name: "stdlib"
@@ -191,7 +191,7 @@ packages:
     source:
       type: "tar_gzip"
       url: "https://gfngfn.github.io/temp/std-ja-report.0.0.1.tar.gz"
-      checksum: "4cb153f00954d69509d1c6d1c89ad322"
+      checksum: "83bff758a727f8e1bf9c0dde11e001bd"
     language: "^0.1.0"
     dependencies:
     - name: "stdlib"
@@ -218,7 +218,7 @@ packages:
     source:
       type: "tar_gzip"
       url: "https://gfngfn.github.io/temp/stdlib.0.0.1.tar.gz"
-      checksum: "574e3aedc29eba7442b32bdb7c3a57df"
+      checksum: "ff67787b90a7df9461a5565d70061133"
     language: "^0.1.0"
     dependencies: []
 - name: "tabular"
@@ -227,7 +227,7 @@ packages:
     source:
       type: "tar_gzip"
       url: "https://gfngfn.github.io/temp/tabular.0.0.1.tar.gz"
-      checksum: "bb624de465bac76564f25f040b965238"
+      checksum: "98346e303c3f866cc706645ed5249fa5"
     language: "^0.1.0"
     dependencies:
     - name: "stdlib"
@@ -238,6 +238,6 @@ packages:
     source:
       type: "tar_gzip"
       url: "https://gfngfn.github.io/temp/testing.0.0.1.tar.gz"
-      checksum: "6fbff12f278b04eb46f43082268aecef"
+      checksum: "2989748172667b01c49e448dff69bb28"
     language: "^0.1.0"
     dependencies: []

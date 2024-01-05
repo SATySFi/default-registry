@@ -156,7 +156,7 @@ packages:
     source:
       tar_gzip:
         url: "https://gfngfn.github.io/temp/std-ja.0.0.1.tar.gz"
-        checksum: "932ac4e53be596a8164a4c21d6f20641"
+        checksum: "16a4aa356146e4f07d40e7499c474adf"
     language: "^0.1.0"
     dependencies:
     - used_as: "Stdlib"
@@ -189,7 +189,7 @@ packages:
     source:
       tar_gzip:
         url: "https://gfngfn.github.io/temp/std-ja-book.0.0.1.tar.gz"
-        checksum: "f6b76ffce4466bff82da00d674c4b836"
+        checksum: "2225009f5609f15be40491fda1dbd7b0"
     language: "^0.1.0"
     dependencies:
     - used_as: "Stdlib"
@@ -225,7 +225,7 @@ packages:
     source:
       tar_gzip:
         url: "https://gfngfn.github.io/temp/std-ja-report.0.0.1.tar.gz"
-        checksum: "83bff758a727f8e1bf9c0dde11e001bd"
+        checksum: "99705b683b6349dae86d4b8be0ea2333"
     language: "^0.1.0"
     dependencies:
     - used_as: "Stdlib"

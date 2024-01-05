@@ -6,7 +6,7 @@ packages:
     source:
       tar_gzip:
         url: "https://gfngfn.github.io/temp/annot.0.0.1.tar.gz"
-        checksum: "eeeed8a8661509c674d87bbb6053ff56"
+        checksum: "44736d84dbb1e9bce447852b6cc7f894"
     language: "^0.1.0"
     dependencies:
     - used_as: "Stdlib"
@@ -18,7 +18,7 @@ packages:
     source:
       tar_gzip:
         url: "https://gfngfn.github.io/temp/code.0.0.1.tar.gz"
-        checksum: "e98458918fe1dd1721fc0333d057093f"
+        checksum: "819c252fd2cc428f1714b74dd1ecc5f6"
     language: "^0.1.0"
     dependencies:
     - used_as: "Stdlib"
@@ -69,7 +69,7 @@ packages:
     source:
       tar_gzip:
         url: "https://gfngfn.github.io/temp/footnote-scheme.0.0.1.tar.gz"
-        checksum: "286a9da1dd41a36ffc0ed81b58130c0c"
+        checksum: "3b89fb80bf2b4f1b83cf53c1e9bbf1fa"
     language: "^0.1.0"
     dependencies:
     - used_as: "Stdlib"
@@ -81,7 +81,7 @@ packages:
     source:
       tar_gzip:
         url: "https://gfngfn.github.io/temp/itemize.0.0.1.tar.gz"
-        checksum: "5f835b43c73d2e03a96f633e0de6bf19"
+        checksum: "cc0b35bb10f8062cb4ee95b3df2da67d"
     language: "^0.1.0"
     dependencies:
     - used_as: "Stdlib"
@@ -93,7 +93,7 @@ packages:
     source:
       tar_gzip:
         url: "https://gfngfn.github.io/temp/math.0.0.1.tar.gz"
-        checksum: "61668dfedc8ab9b54f2cf95e231e0da8"
+        checksum: "0b71bd42692ea290290edc29e608030f"
     language: "^0.1.0"
     dependencies:
     - used_as: "Stdlib"
@@ -144,7 +144,7 @@ packages:
     source:
       tar_gzip:
         url: "https://gfngfn.github.io/temp/proof.0.0.1.tar.gz"
-        checksum: "5513bf9e8338cc51aa499713d53fa624"
+        checksum: "8c7578cb3fe7173a20b4d997537e351f"
     language: "^0.1.0"
     dependencies:
     - used_as: "Stdlib"
@@ -270,7 +270,7 @@ packages:
     source:
       tar_gzip:
         url: "https://gfngfn.github.io/temp/tabular.0.0.1.tar.gz"
-        checksum: "98346e303c3f866cc706645ed5249fa5"
+        checksum: "82e3ccb8d8d5df69f33a039cb72eec3c"
     language: "^0.1.0"
     dependencies:
     - used_as: "Stdlib"

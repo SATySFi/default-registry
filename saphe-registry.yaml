@@ -33,7 +33,7 @@ packages:
     source:
       tar_gzip:
         url: "https://gfngfn.github.io/temp/font-ipa-ex.0.0.1.tar.gz"
-        checksum: "a9d8d837a849538ee7dcc970c3825e2b"
+        checksum: "f3f60d5cdea63c3a700ebc169c0188b2"
     language: "^0.1.0"
     dependencies: []
 - name: "font-junicode"

@@ -105,7 +105,7 @@ packages:
     source:
       tar_gzip:
         url: "https://gfngfn.github.io/temp/md-ja.0.0.1.tar.gz"
-        checksum: "8664a10213cc75eb2ee4c3c523cdb0b4"
+        checksum: "f7c621a6954d975cbe030815a2c76643"
     language: "^0.1.0"
     dependencies:
     - used_as: "Stdlib"

@@ -1,0 +1,15 @@
+saphe: "^0.0.1"
+satysfi: "^0.1.0"
+name: "code"
+version: "0.0.1"
+source:
+  tar_gzip:
+    url: "https://gfngfn.github.io/temp/code.0.0.1.tar.gz"
+    checksum: "35f125e5087b541ff665d4c6a06d6272"
+dependencies:
+- used_as: "Stdlib"
+  name: "stdlib"
+  requirement: "^0.0.1"
+- used_as: "FontLatinModern"
+  name: "font-latin-modern"
+  requirement: "^0.0.1"

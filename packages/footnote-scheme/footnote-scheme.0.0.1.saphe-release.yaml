@@ -1,0 +1,12 @@
+saphe: "^0.0.1"
+satysfi: "^0.1.0"
+name: "footnote-scheme"
+version: "0.0.1"
+source:
+  tar_gzip:
+    url: "https://gfngfn.github.io/temp/footnote-scheme.0.0.1.tar.gz"
+    checksum: "7c0c6fcdaf2ebac77c64df287355fb5a"
+dependencies:
+- used_as: "Stdlib"
+  name: "stdlib"
+  requirement: "^0.0.1"

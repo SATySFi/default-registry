@@ -1,0 +1,9 @@
+saphe: "^0.0.1"
+satysfi: "^0.1.0"
+name: "font-ipa-ex"
+version: "0.0.1"
+source:
+  tar_gzip:
+    url: "https://gfngfn.github.io/temp/font-ipa-ex.0.0.1.tar.gz"
+    checksum: "762075a719f1aa7f9c85cf0b81687fe1"
+dependencies: []

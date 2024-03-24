@@ -1,0 +1,12 @@
+saphe: "^0.0.1"
+satysfi: "^0.1.0"
+name: "tabular"
+version: "0.0.1"
+source:
+  tar_gzip:
+    url: "https://gfngfn.github.io/temp/tabular.0.0.1.tar.gz"
+    checksum: "0ac1f5c1fc53be20b7b5fe92f39b22cb"
+dependencies:
+- used_as: "Stdlib"
+  name: "stdlib"
+  requirement: "^0.0.1"

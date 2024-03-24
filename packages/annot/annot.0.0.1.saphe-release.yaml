@@ -1,0 +1,12 @@
+saphe: "^0.0.1"
+satysfi: "^0.1.0"
+name: "annot"
+version: "0.0.1"
+source:
+  tar_gzip:
+    url: "https://gfngfn.github.io/temp/annot.0.0.1.tar.gz"
+    checksum: "35dd2384a5af5cb7b4430d01c30d77ce"
+dependencies:
+- used_as: "Stdlib"
+  name: "stdlib"
+  requirement: "^0.0.1"

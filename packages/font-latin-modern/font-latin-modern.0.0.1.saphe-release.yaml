@@ -1,0 +1,9 @@
+saphe: "^0.0.1"
+satysfi: "^0.1.0"
+name: "font-latin-modern"
+version: "0.0.1"
+source:
+  tar_gzip:
+    url: "https://gfngfn.github.io/temp/font-latin-modern.0.0.1.tar.gz"
+    checksum: "c21f001691d962d6400504a64c088e62"
+dependencies: []

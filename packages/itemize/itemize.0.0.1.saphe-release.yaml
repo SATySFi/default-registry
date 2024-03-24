@@ -1,0 +1,12 @@
+saphe: "^0.0.1"
+satysfi: "^0.1.0"
+name: "itemize"
+version: "0.0.1"
+source:
+  tar_gzip:
+    url: "https://gfngfn.github.io/temp/itemize.0.0.1.tar.gz"
+    checksum: "85161c73a05306d50fbfce706a853961"
+dependencies:
+- used_as: "Stdlib"
+  name: "stdlib"
+  requirement: "^0.0.1"

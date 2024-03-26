@@ -34,3 +34,6 @@ dependencies:
 - used_as: "FontLatinModernMath"
   name: "font-latin-modern-math"
   requirement: "^0.0.1"
+- used_as: "HyphEnglish"
+  name: "hyph-english"
+  requirement: "^0.0.1"

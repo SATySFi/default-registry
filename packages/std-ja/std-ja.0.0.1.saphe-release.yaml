@@ -5,7 +5,7 @@ version: "0.0.1"
 source:
   tar_gzip:
     url: "https://gfngfn.github.io/temp/std-ja.0.0.1.tar.gz"
-    checksum: "e9a773286685e73f01761bc25bf5882c"
+    checksum: "52fb5bf621027c218c2522d4ccb1e375"
 dependencies:
 - used_as: "Stdlib"
   name: "stdlib"
@@ -33,4 +33,7 @@ dependencies:
   requirement: "^0.0.1"
 - used_as: "HyphEnglish"
   name: "hyph-english"
+  requirement: "^0.0.1"
+- used_as: "Unidata"
+  name: "unidata"
   requirement: "^0.0.1"

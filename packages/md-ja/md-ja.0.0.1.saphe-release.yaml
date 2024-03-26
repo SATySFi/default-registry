@@ -5,7 +5,7 @@ version: "0.0.1"
 source:
   tar_gzip:
     url: "https://gfngfn.github.io/temp/md-ja.0.0.1.tar.gz"
-    checksum: "66c2eef526fcde111e005425570dba21"
+    checksum: "601c9b135a57e83f0727e5450c17e24c"
 dependencies:
 - used_as: "Stdlib"
   name: "stdlib"

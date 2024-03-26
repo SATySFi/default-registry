@@ -5,7 +5,7 @@ version: "0.0.1"
 source:
   tar_gzip:
     url: "https://gfngfn.github.io/temp/std-ja-report.0.0.1.tar.gz"
-    checksum: "b0f994c0f94df32e6c5d9c2da25c695c"
+    checksum: "689cf8c20ca630d14d34fdb2a9367075"
 dependencies:
 - used_as: "Stdlib"
   name: "stdlib"

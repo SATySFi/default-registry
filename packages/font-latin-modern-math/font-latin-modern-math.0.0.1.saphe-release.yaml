@@ -1,9 +1,9 @@
-saphe: "^0.0.1"
-satysfi: "^0.1.0"
+saphe: "^0.1.0-alpha.1"
+satysfi: "^0.1.0-alpha.1"
 name: "font-latin-modern-math"
 version: "0.0.1"
 source:
   tar_gzip:
     url: "https://gfngfn.github.io/temp/font-latin-modern-math.0.0.1.tar.gz"
-    checksum: "aa98411378416acd85a0f27d504b8614"
+    checksum: "9f3ac415dc883896a07b9cb97e40383e"
 dependencies: []

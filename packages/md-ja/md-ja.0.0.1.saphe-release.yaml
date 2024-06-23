@@ -1,11 +1,11 @@
-saphe: "^0.0.1"
-satysfi: "^0.1.0"
+saphe: "^0.1.0-alpha.1"
+satysfi: "^0.1.0-alpha.1"
 name: "md-ja"
 version: "0.0.1"
 source:
   tar_gzip:
     url: "https://gfngfn.github.io/temp/md-ja.0.0.1.tar.gz"
-    checksum: "e54116451011d7ab69b715a6caf72279"
+    checksum: "017777ba86fbd96237dfdc5dd8acc0fe"
 dependencies:
 - used_as: "Stdlib"
   name: "stdlib"

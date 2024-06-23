@@ -1,11 +1,11 @@
-saphe: "^0.0.1"
-satysfi: "^0.1.0"
+saphe: "^0.1.0-alpha.1"
+satysfi: "^0.1.0-alpha.1"
 name: "code"
 version: "0.0.1"
 source:
   tar_gzip:
     url: "https://gfngfn.github.io/temp/code.0.0.1.tar.gz"
-    checksum: "35f125e5087b541ff665d4c6a06d6272"
+    checksum: "fe4185abbce648c50a9a872ff260b8f3"
 dependencies:
 - used_as: "Stdlib"
   name: "stdlib"

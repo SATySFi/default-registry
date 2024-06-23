@@ -1,11 +1,11 @@
-saphe: "^0.0.1"
-satysfi: "^0.1.0"
+saphe: "^0.1.0-alpha.1"
+satysfi: "^0.1.0-alpha.1"
 name: "proof"
 version: "0.0.1"
 source:
   tar_gzip:
     url: "https://gfngfn.github.io/temp/proof.0.0.1.tar.gz"
-    checksum: "8d499a1ed74474e2ebc2c81865da0512"
+    checksum: "7df3cd6847a0d3873b3d5699feb43419"
 dependencies:
 - used_as: "Stdlib"
   name: "stdlib"

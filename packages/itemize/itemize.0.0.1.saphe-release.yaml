@@ -5,7 +5,7 @@ version: "0.0.1"
 source:
   tar_gzip:
     url: "https://gfngfn.github.io/temp/itemize.0.0.1.tar.gz"
-    checksum: "308cb9c136374d025feb4ff6b326f03e"
+    checksum: "ace3775fb2d57e37d3744bd997ac6b77"
 dependencies:
 - used_as: "Stdlib"
   name: "stdlib"

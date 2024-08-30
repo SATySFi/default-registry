@@ -5,7 +5,7 @@ version: "0.0.1"
 source:
   tar_gzip:
     url: "https://gfngfn.github.io/temp/annot.0.0.1.tar.gz"
-    checksum: "a9a73f35cd947915f3efca5ac42adc13"
+    checksum: "7fa37b102bce6baae405c41f00978320"
 dependencies:
 - used_as: "Stdlib"
   name: "stdlib"

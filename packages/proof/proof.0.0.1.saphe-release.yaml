@@ -5,7 +5,7 @@ version: "0.0.1"
 source:
   tar_gzip:
     url: "https://gfngfn.github.io/temp/proof.0.0.1.tar.gz"
-    checksum: "7df3cd6847a0d3873b3d5699feb43419"
+    checksum: "1d16502db2ff91cdefceb51a1b79186c"
 dependencies:
 - used_as: "Stdlib"
   name: "stdlib"

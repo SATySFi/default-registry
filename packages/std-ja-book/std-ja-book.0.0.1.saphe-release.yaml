@@ -5,7 +5,7 @@ version: "0.0.1"
 source:
   tar_gzip:
     url: "https://gfngfn.github.io/temp/std-ja-book.0.0.1.tar.gz"
-    checksum: "7f79f9b16d9bfe7d47ec3a6d9f5d6795"
+    checksum: "b8b8d919f31f8b47cb12821360a57511"
 dependencies:
 - used_as: "Stdlib"
   name: "stdlib"
